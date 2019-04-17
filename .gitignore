@@ -1,0 +1,24 @@
+# Mac specific
+**/.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
+
+# Config files
+config.json
+logging.json
+
+# Project log
+log/
+
+# Compiled code
+**/.ipynb_checkpoints/
+**/*.pyc
+
+# Other
+data/*
+output/figures/*
+
+# Exceptions
+!**/.gitkeep 

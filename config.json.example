@@ -1,0 +1,13 @@
+{
+  "paths": {
+    "data_dir": "data/",
+    "output_dir": "output/"
+  },
+  "core": {
+    "api_key": "api_key",
+    "max_query_size": 100
+  },
+  "api": {
+    "max_request_size": 10
+  }
+}
