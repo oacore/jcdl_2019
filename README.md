@@ -24,7 +24,7 @@ All code in this repository uses **Python 3+** (it was tested using Python 3.7.2
 
 ## Compliance Checker
 
-To get publication and deposit dates and check compliance with the REF 2021 OA Policy for your own DOIs, you can use our compliance checker tool. An example how to use it directly from Python is provided in [this notebook](./notebooks/03_compliance_checker.ipynb).
+To get publication and deposit dates and check compliance with the REF 2021 OA Policy for your own DOIs, you can use our compliance checker tool. An example how to use it directly from Python is provided in [this notebook](https://nbviewer.jupyter.org/github/oacore/jcdl_2019/blob/master/notebooks/03_compliance_checker.ipynb).
 
 Alternatively, you can run the tool as a simple API service. Use `python run_server.py` to run it.
 
