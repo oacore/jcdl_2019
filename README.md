@@ -2,7 +2,7 @@
 
 This repository contains supporting data for our JCDL 2019 paper titled "Do Authors Deposit on Time? Tracking Open Access Policy Compliance."
 
-The dataset used in our analysis is available at [http://dx.doi.org/10.21954/ou.rd.7684022](http://dx.doi.org/10.21954/ou.rd.7684022).
+The dataset used in our analysis is available at [http://dx.doi.org/10.5281/zenodo.2605409](http://dx.doi.org/10.5281/zenodo.2605409).
 
 All code in this repository uses **Python 3+** (it was tested using Python 3.7.2).
 
