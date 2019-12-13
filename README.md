@@ -1,6 +1,6 @@
 # Do Authors Deposit on Time? Tracking Open Access Policy Compliance
 
-This repository contains supporting data for our JCDL 2019 paper titled "Do Authors Deposit on Time? Tracking Open Access Policy Compliance."
+This repository contains supporting data for our JCDL 2019 paper titled "[Do Authors Deposit on Time? Tracking Open Access Policy Compliance](https://ieeexplore.ieee.org/document/8791195)."
 
 The dataset used in our analysis is available at [http://dx.doi.org/10.5281/zenodo.2605409](http://dx.doi.org/10.5281/zenodo.2605409).
 
